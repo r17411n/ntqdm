@@ -139,4 +139,4 @@ function tqdm(){
 	}
 }
 
-module.exports = tqdm();
+export default tqdm;
